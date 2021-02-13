@@ -1,0 +1,9 @@
+.idea
+core/*
+!core/.gitignore
+logs/*
+!logs/.gitignore
+db_data/*
+!db_data/.gitignore
+wp-content/*
+!wp-content/.gitignore
